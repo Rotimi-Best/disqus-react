@@ -1,4 +1,4 @@
-# disqus-react
+# best disqus-react
 
 disqus-react is a component for integrating the Disqus comments embed and comment count into a React.js single-page application. All components support live reloads when new prop data is received.
 
